@@ -1,4 +1,4 @@
----
+---*
 Order: 4
 Area: editor
 TOCTitle: IntelliSense
@@ -7,6 +7,7 @@ PageTitle: IntelliSense in Visual Studio Code
 DateApproved: 12/7/2023
 MetaDescription:  Learn about Visual Studio Code IntelliSense (intelligent code completion).
 ---
+
 # IntelliSense
 
 IntelliSense is a general term for various code editing features including: code completion, parameter info, quick info, and member lists. IntelliSense features are sometimes called by other names such as "code completion", "content assist", and "code hinting."
